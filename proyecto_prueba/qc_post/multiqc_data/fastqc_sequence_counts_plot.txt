@@ -1,0 +1,7 @@
+Sample	Unique Reads
+SRR31536316_1_clean	0
+SRR31536316_2_clean	0
+SRR31582188_clean	1
+SRR31670085_clean	1
+SRR31670086_clean	1
+SRR31771064_clean	1

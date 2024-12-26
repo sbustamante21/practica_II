@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR31670085_clean	/home/seba/Documents/practica_II/proyecto_prueba/qc_post/SRR31670085_clean_fastqc.zip
+FastQC	all_sections	SRR31536316_1_clean	/home/seba/Documents/practica_II/proyecto_prueba/qc_post/SRR31536316_1_clean_fastqc.zip
+FastQC	all_sections	SRR31582188_clean	/home/seba/Documents/practica_II/proyecto_prueba/qc_post/SRR31582188_clean_fastqc.zip
+FastQC	all_sections	SRR31771064_clean	/home/seba/Documents/practica_II/proyecto_prueba/qc_post/SRR31771064_clean_fastqc.zip
+FastQC	all_sections	SRR31670086_clean	/home/seba/Documents/practica_II/proyecto_prueba/qc_post/SRR31670086_clean_fastqc.zip
+FastQC	all_sections	SRR31536316_2_clean	/home/seba/Documents/practica_II/proyecto_prueba/qc_post/SRR31536316_2_clean_fastqc.zip
